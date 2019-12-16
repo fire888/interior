@@ -6,6 +6,9 @@
 ![License status](https://img.shields.io/badge/license-Beerware-green.svg) 
 
 
+![illustration](https://github.com/fire888/interior/blob/master/src/assets/interier/001.jpg)
+
+
 [Пример](http://js.otrisovano.ru/tests/191215-interior/03/)
 ------------ 
 
@@ -19,4 +22,3 @@ npm run build  // создать или изменить штмлку  || соб
 npm run start
 ```
 
-![illustration](https://github.com/fire888/interior/blob/master/src/assets/interier/001.jpg=400x200)
