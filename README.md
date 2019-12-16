@@ -6,7 +6,7 @@
 ![License status](https://img.shields.io/badge/license-Beerware-green.svg) 
 
 
-![pic](https://github.com/fire888/interior/blob/master/src/assets/interier/001.jpg =500x250)
+![pic](https://github.com/fire888/interior/blob/master/src/assets/interier/001.jpg=500x250)
 
 
 [Пример](http://js.otrisovano.ru/tests/191215-interior/03/)
