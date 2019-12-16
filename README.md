@@ -16,7 +16,7 @@
 ------------   
 ```
 git clone https://github.com/fire888/interior.git
-cd interiour
+cd interior
 npm install
 npm run build  // создать или изменить штмлку  || собрать билд
 npm run start
