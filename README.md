@@ -19,4 +19,4 @@ npm run build  // создать или изменить штмлку  || соб
 npm run start
 ```
 
-![illustration](https://github.com/fire888/interior/blob/master/src/assets/interier/001.jpg)
+![illustration](https://github.com/fire888/interior/blob/master/src/assets/interier/001.jpg =400x200)
